@@ -2,7 +2,7 @@
 
 Software educacional desenvolvido em Python para determinar propriedades geométricas de seções planas por meio do Teorema de Green. Permite analisar seções com contornos compostos por segmentos de reta, arcos de circunferência e parábolas, incluindo seções com furos.
 
-Este repositório disponibiliza temporariamente o código-fonte para avaliação de artigo submetido à revista RENOTE. Por razões éticas, a identificação dos autores e das instituições foi omitida nesta versão, a fim de preservar o anonimato durante a avaliação por pares em sistema duplo-cego. A autoria será informada posteriormente, caso o artigo seja aceito para publicação.
+Este repositório disponibiliza temporariamente o código para avaliação de artigo submetido à revista RENOTE. Por razões éticas, a identificação dos autores e das instituições foi omitida nesta versão, a fim de preservar o anonimato durante a avaliação por pares em sistema duplo-cego. A autoria será informada posteriormente, caso o artigo seja aceito para publicação.
 
 ## Funcionalidades
 
@@ -101,3 +101,5 @@ Quadrado de lado 10 com furo circular central de raio 1 e origem dos eixos no v�
 ```
 
 Na interface Streamlit, cole o exemplo em **Inserir texto** e clique em **Salvar texto**, **Conferir dados** e **Calcular resultados**.
+
+Mais exemplos podem ser consultados na pasta específica. 
