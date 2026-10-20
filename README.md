@@ -81,9 +81,23 @@ jupyter notebook
 
 ## Dados de entrada
 
-Descreva o contorno externo no sentido **anti-horário** e os furos no sentido **horário**, utilizando o mesmo sistema de eixos e unidades de comprimento coerentes.
+Divida o contorno da seção em caminhos simples, utilizando o mesmo sistema de eixos de referência.
+↶ Contorno: sentido anti-horário.
+↷ Furos: sentido horário.
 
-No arquivo de texto, insira uma linha por caminho e uma linha em branco entre os grupos do contorno externo e de cada furo. Linhas iniciadas por `#` são comentários. O notebook apresenta o formato e os parâmetros de cada tipo de caminho.
+Tipos de caminhos:
+1 – segmento de reta
+2 – arco
+3 – parábola y=f(x)
+4 – parábola x=f(y)
+
+Caso opte-se pela entrada de dados por arquivo de texto:
+
+Insira uma linha de dados por caminho, no formato:
+tipo xi yi [θi θf raio | xp yp]
+
+Linhas em branco separam grupos de caminhos (contorno ou furos).
+Linhas iniciadas por # são comentários e são ignoradas pelo programa. 
 
 O arquivo de dados, como `dados_green.txt`, é específico de cada seção e pode ser fornecido pelo usuário ou gerado pelo programa.
 
