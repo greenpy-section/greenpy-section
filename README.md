@@ -2,7 +2,7 @@
 
 Software educacional desenvolvido em Python para determinar propriedades geométricas de seções planas por meio do Teorema de Green. Permite analisar seções com contornos compostos por segmentos de reta, arcos de circunferência e parábolas, incluindo seções com furos.
 
-Este repositório disponibiliza temporariamente o código para avaliação de artigo submetido à revista RENOTE. Por razões éticas, a identificação dos autores e das instituições foi omitida nesta versão, a fim de preservar o anonimato durante a avaliação por pares em sistema duplo-cego. A autoria será informada posteriormente, caso o artigo seja aceito para publicação.
+Este repositório disponibiliza temporariamente o código para avaliação de artigo submetido à revista RENOTE, em outubro de 2026. Por razões éticas, a identificação dos autores e das instituições foi omitida nesta versão, a fim de preservar o anonimato durante a avaliação por pares em sistema duplo-cego. A autoria será informada posteriormente, caso o artigo seja aceito para publicação.
 
 ## Funcionalidades
 
