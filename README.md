@@ -81,23 +81,23 @@ jupyter notebook
 
 ## Dados de entrada
 
-Divida o contorno da seção em caminhos simples, utilizando o mesmo sistema de eixos de referência.
-↶ Contorno: sentido anti-horário.
+Divida o contorno da seção em caminhos simples, utilizando o mesmo sistema de eixos de referência.<br>
+↶ Contorno: sentido anti-horário.<br>
 ↷ Furos: sentido horário.
 
-Tipos de caminhos:
-1 – segmento de reta
-2 – arco
-3 – parábola y=f(x)
-4 – parábola x=f(y)
+Tipos de caminhos:<br>
+`1 – segmento de reta`<br>
+`2 – arco`<br>
+`3 – parábola y=f(x)`<br>
+`4 – parábola x=f(y)`
 
-Caso opte-se pela entrada de dados por arquivo de texto:
+Caso se opte pela entrada de dados por arquivo de texto:
 
-Insira uma linha de dados por caminho, no formato:
-tipo xi yi [θi θf raio | xp yp]
+Insira uma linha de dados por caminho, no formato:<br>
+`tipo xi yi [θi θf raio | xp yp]`
 
-Linhas em branco separam grupos de caminhos (contorno ou furos).
-Linhas iniciadas por # são comentários e são ignoradas pelo programa. 
+Linhas em branco separam grupos de caminhos (contorno ou furos).<br>
+Linhas iniciadas por `#` são comentários e são ignoradas pelo programa.
 
 O arquivo de dados, como `dados_green.txt`, é específico de cada seção e pode ser fornecido pelo usuário ou gerado pelo programa.
 
