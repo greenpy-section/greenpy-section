@@ -1,0 +1,49 @@
+
+Dados de entrada lidos pelo programa:
+
+=== Caminhos de contorno: ===
+
+--- Caminho 1: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 0,00)
+Ponto final    = (120,00; 150,00)
+
+--- Caminho 2: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (120,00; 150,00)
+Ponto final    = (120,00; 330,00)
+
+--- Caminho 3: ---
+Tipo: Parábola do tipo y = f(x)
+Coordenadas (x;y):
+Ponto inicial  = (120,00; 330,00)
+Ponto final    = (0,00; 150,00)
+Ponto intermediário = (60,00; 285,00)
+Equação: y = -0,0125·x² + 3·x + 150
+
+--- Caminho 4: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 150,00)
+Ponto final    = (0,00; 0,00)
+
+
+=== Caminhos do furo 1: ===
+
+--- Caminho 5: ---
+Tipo: Arco de Circunferência
+Coordenadas (x;y):
+Ponto inicial  = (80,00; 190,00)
+Ponto final    = (80,00; 190,00)
+Centro         = (60,00; 190,00)
+Raio           = 20,00
+Ângulo inicial = 360,00°
+Ângulo final   = 0,00°
+Status = ok
+Circunferência completa. Dados consistentes.
+Confirme no gráfico se corresponde à circunferência pretendida.
+
+
+Verifique se os dados estão corretos!

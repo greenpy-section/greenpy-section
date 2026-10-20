@@ -1,0 +1,94 @@
+
+# ---------------------------------------------------------------------- #
+# ------------- Resultados do contorno externo (sem furos) ------------- #
+# ---------------------------------------------------------------------- #
+
+Caminhos: C1, C2, C3, C4
+
+Área:
+A = 23.400,00 cm²
+
+Resultados em relação aos eixos de referência:
+
+Coordenadas (xc, yc) do centróide:
+xc = 61,54 cm
+yc = 175,08 cm
+
+Momentos estáticos de 1ª ordem:
+Sx = 4.096.800,00 cm³
+Sy = 1.440.000,00 cm³
+
+Momentos de inércia de área:
+Ix = 842.932.285,71 cm⁴
+Iy = 114.912.000,00 cm⁴
+
+Produto de inércia:
+Pxy = 288.036.000,00 cm⁴
+
+Resultados em relação aos eixos centrais do contorno externo:
+
+Momentos de inércia centrais de área:
+Ixc,c = 125.677.147,25 cm⁴
+Iyc,c = 26.296.615,38 cm⁴
+
+Produto de inércia central:
+Pxyc,c = 35.925.230,77 cm⁴
+
+Momentos principais centrais de inércia:
+I,max = 137.303.638,69 cm⁴
+I,min = 14.670.123,95 cm⁴
+
+Eixos principais centrais de inércia:
+θ1 = -17,93° 
+θ2 = 72,07° 
+
+Obs.: A área do contorno externo deve ser positiva.
+      → Os caminhos devem ser fornecidos no sentido anti-horário.
+
+
+# ---------------------------------------------------------------------- #
+# ------------------------ Resultados do furo 1 ------------------------ #
+# ---------------------------------------------------------------------- #
+
+Caminhos: C5
+
+Área:
+A = -1.256,64 cm²
+
+Resultados em relação aos eixos de referência:
+
+Coordenadas (xc, yc) do centróide:
+xc = 60,00 cm
+yc = 190,00 cm
+
+Momentos estáticos de 1ª ordem:
+Sx = -238.761,04 cm³
+Sy = -75.398,22 cm³
+
+Momentos de inércia de área:
+Ix = -45.490.261,62 cm⁴
+Iy = -4.649.557,13 cm⁴
+
+Produto de inércia:
+Pxy = -14.325.662,50 cm⁴
+
+Resultados em relação aos eixos centrais do furo 1:
+
+Momentos de inércia centrais de área:
+Ixc,f1 = -125.663,71 cm⁴
+Iyc,f1 = -125.663,71 cm⁴
+
+Produto de inércia central:
+Pxyc,f1 = 0,00 cm⁴
+
+Momentos principais centrais de inércia:
+I,max = -125.663,71 cm⁴
+I,min = -125.663,71 cm⁴
+
+Eixos principais centrais de inércia:
+θ1 = 0,00° 
+θ2 = 90,00° 
+
+Obs.: A área de cada furo deve ser negativa (subtração de área).
+      → Os caminhos devem ser fornecidos no sentido horário.
+
