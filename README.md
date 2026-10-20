@@ -116,4 +116,18 @@ Quadrado de lado 10 com furo circular central de raio 1 e origem dos eixos no v�
 
 Na interface Streamlit, cole o exemplo em **Inserir texto** e clique em **Salvar texto**, **Conferir dados** e **Calcular resultados**.
 
-Mais exemplos podem ser consultados na pasta específica. 
+Mais exemplos podem ser consultados na pasta específica.
+
+## Licença e autoria
+
+O código-fonte do GreenPy Section é disponibilizado sob a licença [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br).
+
+São permitidos o uso, a cópia, a modificação e o compartilhamento para fins não comerciais, mediante atribuição de crédito e indicação de eventuais alterações. As adaptações compartilhadas devem ser distribuídas sob a mesma licença.
+
+### Autoria e citação
+
+Durante a submissão à revista RENOTE, a identificação dos autores permanece temporariamente omitida para preservar a avaliação por pares em sistema duplo-cego. Nesse período, a atribuição de crédito deve indicar o nome GreenPy Section e o endereço deste repositório.
+
+Caso o artigo seja aceito para publicação, a autoria será informada neste repositório. A partir dessa divulgação, as novas referências deverão identificar os autores.
+
+Em trabalhos acadêmicos, cite o software e, quando disponível, o artigo correspondente.
