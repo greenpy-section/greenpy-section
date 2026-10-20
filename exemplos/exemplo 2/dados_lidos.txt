@@ -1,0 +1,66 @@
+
+Dados de entrada lidos pelo programa:
+
+=== Caminhos de contorno: ===
+
+--- Caminho 1: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 0,00)
+Ponto final    = (100,00; 0,00)
+
+--- Caminho 2: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (100,00; 0,00)
+Ponto final    = (100,00; 20,00)
+
+--- Caminho 3: ---
+Tipo: Arco de Circunferência
+Coordenadas (x;y):
+Ponto inicial  = (100,00; 20,00)
+Ponto final    = (80,00; 40,00)
+Centro         = (80,00; 20,00)
+Raio           = 20,00
+Ângulo inicial = 0,00°
+Ângulo final   = 90,00°
+Status = ok
+Dados do arco estão consistentes.
+Confirme no gráfico se correspondem ao arco pretendido.
+
+--- Caminho 4: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (80,00; 40,00)
+Ponto final    = (30,00; 40,00)
+
+--- Caminho 5: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (30,00; 40,00)
+Ponto final    = (0,00; 25,00)
+
+--- Caminho 6: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 25,00)
+Ponto final    = (0,00; 0,00)
+
+
+=== Caminhos do furo 1: ===
+
+--- Caminho 7: ---
+Tipo: Arco de Circunferência
+Coordenadas (x;y):
+Ponto inicial  = (35,00; 8,00)
+Ponto final    = (35,00; 8,00)
+Centro         = (35,00; 18,00)
+Raio           = 10,00
+Ângulo inicial = 270,00°
+Ângulo final   = -90,00°
+Status = ok
+Circunferência completa. Dados consistentes.
+Confirme no gráfico se corresponde à circunferência pretendida.
+
+
+Verifique se os dados estão corretos!

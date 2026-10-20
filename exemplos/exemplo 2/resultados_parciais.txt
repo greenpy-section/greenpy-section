@@ -1,0 +1,94 @@
+
+# ---------------------------------------------------------------------- #
+# ------------- Resultados do contorno externo (sem furos) ------------- #
+# ---------------------------------------------------------------------- #
+
+Caminhos: C1, C2, C3, C4, C5, C6
+
+Área:
+A = 3.689,16 
+
+Resultados em relação aos eixos de referência:
+
+Coordenadas (xc, yc) do centróide:
+xc = 51,38 
+yc = 18,72 
+
+Momentos estáticos de 1ª ordem:
+Sx = 69.074,85 
+Sy = 189.549,41 
+
+Momentos de inércia de área:
+Ix = 1.745.308,80 
+Iy = 12.514.951,89 
+
+Produto de inércia:
+Pxy = 3.627.758,99 
+
+Resultados em relação aos eixos centrais do contorno externo:
+
+Momentos de inércia centrais de área:
+Ixc,c = 451.969,36 
+Iyc,c = 2.775.882,51 
+
+Produto de inércia central:
+Pxyc,c = 78.685,52 
+
+Momentos principais centrais de inércia:
+I,max = 2.778.543,68 
+I,min = 449.308,19 
+
+Eixos principais centrais de inércia:
+θ1 = 1,94° 
+θ2 = 91,94° 
+
+Obs.: A área do contorno externo deve ser positiva.
+      → Os caminhos devem ser fornecidos no sentido anti-horário.
+
+
+# ---------------------------------------------------------------------- #
+# ------------------------ Resultados do furo 1 ------------------------ #
+# ---------------------------------------------------------------------- #
+
+Caminhos: C7
+
+Área:
+A = -314,16 
+
+Resultados em relação aos eixos de referência:
+
+Coordenadas (xc, yc) do centróide:
+xc = 35,00 
+yc = 18,00 
+
+Momentos estáticos de 1ª ordem:
+Sx = -5.654,87 
+Sy = -10.995,57 
+
+Momentos de inércia de área:
+Ix = -109.641,58 
+Iy = -392.699,08 
+
+Produto de inércia:
+Pxy = -197.920,34 
+
+Resultados em relação aos eixos centrais do furo 1:
+
+Momentos de inércia centrais de área:
+Ixc,f1 = -7.853,98 
+Iyc,f1 = -7.853,98 
+
+Produto de inércia central:
+Pxyc,f1 = 0,00 
+
+Momentos principais centrais de inércia:
+I,max = -7.853,98 
+I,min = -7.853,98 
+
+Eixos principais centrais de inércia:
+θ1 = 0,00° 
+θ2 = 90,00° 
+
+Obs.: A área de cada furo deve ser negativa (subtração de área).
+      → Os caminhos devem ser fornecidos no sentido horário.
+
