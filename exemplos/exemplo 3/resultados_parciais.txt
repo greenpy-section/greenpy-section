@@ -1,0 +1,47 @@
+
+# ---------------------------------------------------------------------- #
+# ------------- Resultados do contorno externo (sem furos) ------------- #
+# ---------------------------------------------------------------------- #
+
+Caminhos: C1, C2, C3, C4, C5, C6
+
+Área:
+A = 846,46 
+
+Resultados em relação aos eixos de referência:
+
+Coordenadas (xc, yc) do centróide:
+xc = 26,38 
+yc = 8,088 
+
+Momentos estáticos de 1ª ordem:
+Sx = 6.845,87 
+Sy = 22.333,33 
+
+Momentos de inércia de área:
+Ix = 77.037,24 
+Iy = 766.682,34 
+
+Produto de inércia:
+Pxy = 172.395,83 
+
+Resultados em relação aos eixos centrais do contorno externo:
+
+Momentos de inércia centrais de área:
+Ixc,c = 21.670,27 
+Iyc,c = 177.431,02 
+
+Produto de inércia central:
+Pxyc,c = -8.228,26 
+
+Momentos principais centrais de inércia:
+I,max = 177.864,48 
+I,min = 21.236,81 
+
+Eixos principais centrais de inércia:
+θ1 = -3,02° 
+θ2 = 86,98° 
+
+Obs.: A área do contorno externo deve ser positiva.
+      → Os caminhos devem ser fornecidos no sentido anti-horário.
+

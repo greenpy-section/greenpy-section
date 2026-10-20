@@ -1,0 +1,43 @@
+
+# ------------------------------------------------------------ #
+# ------------------------ Resultados ------------------------ #
+# ------------------------------------------------------------ #
+
+Área da seção:
+A = 846,46 
+
+# ----- Resultados em relação aos eixos de referência:  ------ #
+
+Coordenadas (xc, yc) do centróide:
+xc = 26,38 
+yc = 8,088 
+
+Momentos estáticos de 1ª ordem:
+Sx = 6.845,87 
+Sy = 22.333,33 
+
+Momentos de inércia de área:
+Ix = 77.037,24 
+Iy = 766.682,34 
+
+Produto de inércia:
+Pxy = 172.395,83 
+
+# -------- Resultados em relação aos eixos centrais:  -------- #
+
+Momentos de inércia centrais de área:
+Ixc = 21.670,27 
+Iyc = 177.431,02 
+
+Produto de inércia central:
+Pxcyc = -8.228,26 
+
+Momentos principais centrais de inércia:
+I,max = 177.864,48 
+I,min = 21.236,81 
+
+Eixos principais centrais de inércia:
+θ1 = -3,02° (associado a I,min)
+θ2 = 86,98° (associado a I,max)
+
+

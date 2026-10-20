@@ -1,0 +1,50 @@
+
+Dados de entrada lidos pelo programa:
+
+=== Caminhos de contorno: ===
+
+--- Caminho 1: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 0,00)
+Ponto final    = (55,00; 0,00)
+
+--- Caminho 2: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (55,00; 0,00)
+Ponto final    = (55,00; 10,00)
+
+--- Caminho 3: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (55,00; 10,00)
+Ponto final    = (20,00; 20,00)
+
+--- Caminho 4: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (20,00; 20,00)
+Ponto final    = (10,00; 20,00)
+
+--- Caminho 5: ---
+Tipo: Arco de Circunferência
+Coordenadas (x;y):
+Ponto inicial  = (10,00; 20,00)
+Ponto final    = (0,00; 10,00)
+Centro         = (0,00; 20,00)
+Raio           = 10,00
+Ângulo inicial = 0,00°
+Ângulo final   = -90,00°
+Status = ok
+Dados do arco estão consistentes.
+Confirme no gráfico se correspondem ao arco pretendido.
+
+--- Caminho 6: ---
+Tipo: Segmento de Reta
+Coordenadas (x;y):
+Ponto inicial  = (0,00; 10,00)
+Ponto final    = (0,00; 0,00)
+
+
+Verifique se os dados estão corretos!
